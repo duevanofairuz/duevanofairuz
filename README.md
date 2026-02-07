@@ -1,6 +1,6 @@
-### Hello World 👋
+### Halo 👋
 
-Meong
+Currently struggling to
 
 <!--
 **duevanofairuz/duevanofairuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
