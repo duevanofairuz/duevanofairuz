@@ -1,7 +1,7 @@
 ### Halo 👋
 
 <!-- Currently struggling to [something?] </br> -->
-Currently hosting some of my professional portfolio on [**Upwork**](https://www.upwork.com/freelancers/~01c6def8b056739520?mp_source=share) while my dedicated personal website is `under development`🚀.
+Currently hosting my professional portfolio on [**Upwork**](https://www.upwork.com/freelancers/~01c6def8b056739520?mp_source=share) while my dedicated personal website is `under development`🚀.
 
 <!--
 **duevanofairuz/duevanofairuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
